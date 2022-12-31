@@ -74,4 +74,5 @@ If you would like to add a new character or request a new feature, please open a
 **Contact**
 
 Email -------------------------> raghulraghul111@gmail.com
+<br/>
 Linkedin ----------------------> https://www.linkedin.com/in/raghul-50478323b/
