@@ -47,6 +47,17 @@ Path.get('/Alias/:Person',async(req, res) => {
     }
 })
 
+//Read Data; 
+Path.get('/Person/:Person',async(req, res) => {
+    try {
+        let value = req.params.Person;
+        let final =await Data.findOne({Name:value})
+        res.status(200).json(final)
+    } catch (error) {
+        res.status(500).json(error)
+    }
+})
+
 
 //Export express Router;
 module.exports = Path;
