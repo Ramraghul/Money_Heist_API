@@ -42,23 +42,23 @@ Project Money Heist is a RESTful API made using MongoDB and Nodejs. This API is 
 ## How to use:
 **Syntax:** 
 
-    1).........https://money-heist-api.vercel.app
+    https://money-heist-api.vercel.app
 
 For conformation to work this API
 
-    2).........https://money-heist-api.vercel.app/All
+    https://money-heist-api.vercel.app/All
 
 For getting all person information 
 
-    3).........https://money-heist-api.vercel.app/Money_heist/{ID}
+    https://money-heist-api.vercel.app/Money_heist/{ID}
 
 For getting specific information using ID.ID characters mentioned Above && where _id_ is a unique number for every character.
 
-    4).........https://money-heist-api.vercel.app/Money_heist/Alias/{Professor}
+    https://money-heist-api.vercel.app/Money_heist/Alias/{Professor}
 
 For getting the information of Professor with **Alias=Professor** 
 
-    5).........https://money-heist-api.vercel.app/Money_heist/Person/{Luis Tamayo}
+    https://money-heist-api.vercel.app/Money_heist/Person/{Luis Tamayo}
 
 For getting the information of Police or Hostage with **Name=Luis Tamayo** 
 
